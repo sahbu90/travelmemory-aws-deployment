@@ -14,7 +14,7 @@ https://d20ahthcxav8kv.cloudfront.net
 
 ---
 
-## Architecture (high level)
+## Architecture
 
 User → CloudFront → ALB → EC2 instances → MongoDB Atlas
 
